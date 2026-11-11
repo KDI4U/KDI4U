@@ -50,6 +50,13 @@ With **over 8 years of solid industry experience**, I specialize in designing an
 ![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logoColor=white)
 
+### Computer Vision & Document AI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-00A67E?style=for-the-badge&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-2B5B84?style=for-the-badge&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-D00000?style=for-the-badge&logoColor=white)
+
 ### Web Automation & Web Scraping
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -86,6 +93,7 @@ With **over 8 years of solid industry experience**, I specialize in designing an
 
 | Project | Highlights & Business Value | Stack |
 |---|---|---|
+| 👁️ **[AI Document Intelligence & Face Match API](https://github.com/KDI4U/ai-pdf-reader-facematch)** | High-accuracy biometric 1:1 facial verification (OpenCV YuNet + SFace ONNX) and multi-format document OCR (Aadhaar, PAN, Bank Statements, Agreements). | `FastAPI` `OpenCV` `ONNX` `EasyOCR` `Docker` |
 | 🤖 **[Enterprise AI RAG Chatbot](https://github.com/KDI4U/chatbot)** | Private, zero-latency conversational RAG engine built with FastAPI, LangChain, ChromaDB vector store, and local Ollama LLMs (Qwen3 + Nomic-Embed). | `FastAPI` `LangChain` `ChromaDB` `Ollama` `RAG` |
 | 🗄️ **[Compliance Automation with Database](https://github.com/KDI4U/Complience_with_DB)** | Enterprise ESIC & EPFO compliance system with PostgreSQL database reconciliation, standalone PyInstaller executable packaging, and automated reporting. | `Python` `PostgreSQL` `Selenium` `PyInstaller` |
 | 🏛️ **[ESIC Supplementary & Challan Automation](https://github.com/KDI4U/ESIC-Supplementary-Monthly-Contribution)** | Automated ESIC portal supplementary contribution processing, bulk employee filing, challan generation, and interactive desktop GUI control panel. | `Python` `Selenium` `Playwright` `GUI` `Automation` |
