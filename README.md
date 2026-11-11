@@ -80,6 +80,7 @@ With **over 8 years of solid industry experience**, I specialize in designing an
 
 | Project | Highlights & Business Value | Stack |
 |---|---|---|
+| 🗄️ **[Compliance Automation with Database](https://github.com/KDI4U/Complience_with_DB)** | Enterprise ESIC & EPFO compliance system with PostgreSQL database reconciliation, standalone PyInstaller executable packaging, and automated reporting. | `Python` `PostgreSQL` `Selenium` `PyInstaller` |
 | 🏛️ **[ESIC Supplementary & Challan Automation](https://github.com/KDI4U/ESIC-Supplementary-Monthly-Contribution)** | Automated ESIC portal supplementary contribution processing, bulk employee filing, challan generation, and interactive desktop GUI control panel. | `Python` `Selenium` `Playwright` `GUI` `Automation` |
 | 🛡️ **[Compliance Automation System](https://github.com/KDI4U/Complience)** | High-throughput automation engine that scrapes and processes ESIC & EPFO portals, handles CAPTCHA verification, auto-reconciles discrepancies against HRMS master data, and triggers automated email summaries via MS Graph. | `Python` `Playwright` `Selenium` `Pandas` `MS Graph` |
 | 🎫 **[Enterprise Ticketing & Grievance Platform](https://github.com/KDI4U/Tickting-tolls)** | Full-stack operational support platform with JWT RBAC (Admin/Agent/User), shift rostering, SLA lifecycle tracking, dynamic assignment routing, attachments, and real-time analytical reporting. | `FastAPI` `React` `PostgreSQL` `Docker` `Vite` |
