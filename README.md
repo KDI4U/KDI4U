@@ -44,6 +44,12 @@ With **over 8 years of solid industry experience**, I specialize in designing an
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### AI, LLM & Vector Databases
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logoColor=white)
+
 ### Web Automation & Web Scraping
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -80,6 +86,7 @@ With **over 8 years of solid industry experience**, I specialize in designing an
 
 | Project | Highlights & Business Value | Stack |
 |---|---|---|
+| 🤖 **[Enterprise AI RAG Chatbot](https://github.com/KDI4U/chatbot)** | Private, zero-latency conversational RAG engine built with FastAPI, LangChain, ChromaDB vector store, and local Ollama LLMs (Qwen3 + Nomic-Embed). | `FastAPI` `LangChain` `ChromaDB` `Ollama` `RAG` |
 | 🗄️ **[Compliance Automation with Database](https://github.com/KDI4U/Complience_with_DB)** | Enterprise ESIC & EPFO compliance system with PostgreSQL database reconciliation, standalone PyInstaller executable packaging, and automated reporting. | `Python` `PostgreSQL` `Selenium` `PyInstaller` |
 | 🏛️ **[ESIC Supplementary & Challan Automation](https://github.com/KDI4U/ESIC-Supplementary-Monthly-Contribution)** | Automated ESIC portal supplementary contribution processing, bulk employee filing, challan generation, and interactive desktop GUI control panel. | `Python` `Selenium` `Playwright` `GUI` `Automation` |
 | 🛡️ **[Compliance Automation System](https://github.com/KDI4U/Complience)** | High-throughput automation engine that scrapes and processes ESIC & EPFO portals, handles CAPTCHA verification, auto-reconciles discrepancies against HRMS master data, and triggers automated email summaries via MS Graph. | `Python` `Playwright` `Selenium` `Pandas` `MS Graph` |
