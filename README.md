@@ -2,73 +2,101 @@
 
 # 👋 Hi there, I'm Kundan Kumar
 
-### 🚀 Full-Stack & Python Automation Engineer | Backend Architect
+### 🚀 Senior Software Engineer & Automation Architect (8+ Years Exp)
+**Currently crafting enterprise solutions at [Urmila International Services](https://uistech.in)**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Full-Stack+Developer+(FastAPI+%2B+React);Python+Automation+%26+Scraping+Expert;Data+Engineering+%26+Power+BI+Analyst;Cloud+%26+Microsoft+Graph+Integrations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vcenter=true&width=620&lines=8%2B+Years+of+Software+Engineering+Excellence;Senior+Backend+Architect+(FastAPI+%2B+Python);Playwright+%26+Selenium+Browser+Automation;Data+Analyst+%26+Power+BI+Reporting+Specialist;Enterprise+Full-Stack+%26+Cloud+Workflows)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/KDI4U"><img src="https://img.shields.io/github/followers/KDI4U?label=Followers&style=social" /></a>
-  <a href="https://github.com/KDI4U?tab=repositories"><img src="https://img.shields.io/github/stars/KDI4U?label=Total%20Stars&style=social" /></a>
+  <a href="https://github.com/KDI4U"><img src="https://img.shields.io/github/followers/KDI4U?label=Followers&style=flat-square&color=2563EB" /></a>
+  <a href="https://github.com/KDI4U?tab=repositories"><img src="https://img.shields.io/github/stars/KDI4U?label=Total%20Stars&style=flat-square&color=F59E0B" /></a>
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat-square&color=10B981" />
+  <img src="https://img.shields.io/badge/Location-India-informational?style=flat-square&color=6366F1" />
 </p>
 
 ---
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary & About Me
 
-- 🔭 **Currently Building:** Enterprise grievance management systems, automated compliance workflows (ESIC & EPFO), and cloud integration pipelines.
-- 💼 **Focus Areas:** High-performance REST APIs with **FastAPI**, dynamic user interfaces with **React**, and end-to-end process automation in **Python**.
-- 🛠️ **Integrations:** Microsoft Graph API (Outlook / Azure AD), Web Scraping, PDF generation, Data Reconciliation.
-- 🌱 **Continuous Learning:** Scalable microservices, Docker orchestration, and advanced data pipelines.
-- 🎯 **Goals:** Delivering robust, secure, and production-ready applications that solve real-world operational challenges.
+With **over 8 years of solid industry experience**, I specialize in designing and delivering high-performance backend architectures, end-to-end web automation pipelines, and data analytics ecosystems. Currently contributing as a core software engineer at **Urmila International Services**, where I spearhead mission-critical automation systems, compliance frameworks, and internal business platforms.
+
+- 🏢 **Current Company:** **Urmila International Services**
+- ⏳ **Experience:** **8+ Years** in Python Development, Automation, and Data Analytics
+- 🎯 **Core Focus Areas:**
+  - ⚡ **Backend Architecture:** High-concurrency asynchronous microservices with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.
+  - 🤖 **Web & Browser Automation:** Resilient web automation and data extraction with **Playwright**, **Selenium**, and automated CAPTCHA parsing.
+  - 📊 **Data Analytics & Business Intelligence:** Comprehensive ETL pipelines, large-scale data reconciliation using **Pandas**, and executive reporting with **Power BI**.
+  - ☁️ **Enterprise Integrations:** Deep integrations with **Microsoft Graph API (Azure AD / Outlook)**, Docker containerization, and automated CI/CD pipelines.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Arsenal & Core Competencies
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend & API Development
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Web Automation & Web Scraping
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-38B2AC?style=for-the-badge&logoColor=white)
+![Automated OCR](https://img.shields.io/badge/OCR_&_CAPTCHA-FF6B6B?style=for-the-badge&logoColor=white)
+
+### Data Analytics & Business Intelligence
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0284C7?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Reconciliation](https://img.shields.io/badge/Data_Reconciliation-4F46E5?style=for-the-badge&logoColor=white)
+
+### Frontend & Web Technologies
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases & Data Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### DevOps, Cloud & Automation
+### DevOps, Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Production Projects
 
-| Project | Description | Tech Stack |
+| Project | Highlights & Business Value | Stack |
 |---|---|---|
-| 📋 **[Ticketing & Grievance System](https://github.com/KDI4U/Tickting-tolls)** | Enterprise grievance handling platform featuring role-based access, ticket lifecycle, shift assignments, and analytics dashboard. | `FastAPI` `React` `PostgreSQL` `Docker` `JWT` |
-| 🛡️ **[Compliance Automation](https://github.com/KDI4U/Complience)** | Automated ESIC & EPFO portal scraping, Excel reconciliation, web status dashboard, and automated email alerts. | `Python` `Selenium` `Pandas` `MS Graph API` |
-| 📈 **[IPO Market Analysis](https://github.com/KDI4U/ipo_market)** | Data-driven market intelligence tool analyzing IPO subscriptions, listing gains, and market trends. | `FastAPI` `Python` `Pandas` |
-| 📊 **[Power BI Sales Dashboards](https://github.com/KDI4U/PowerBI)** | Interactive executive reports analyzing global sales performance, KPIs, and regional trends. | `Power BI` `DAX` `Data Modeling` |
+| 🛡️ **[Compliance Automation System](https://github.com/KDI4U/Complience)** | High-throughput automation engine that scrapes and processes ESIC & EPFO portals, handles CAPTCHA verification, auto-reconciles discrepancies against HRMS master data, and triggers automated email summaries via MS Graph. | `Python` `Playwright` `Selenium` `Pandas` `MS Graph` |
+| 🎫 **[Enterprise Ticketing & Grievance Platform](https://github.com/KDI4U/Tickting-tolls)** | Full-stack operational support platform with JWT RBAC (Admin/Agent/User), shift rostering, SLA lifecycle tracking, dynamic assignment routing, attachments, and real-time analytical reporting. | `FastAPI` `React` `PostgreSQL` `Docker` `Vite` |
+| 📈 **[IPO Market Analysis Engine](https://github.com/KDI4U/ipo_market)** | Financial intelligence and market analytics engine parsing IPO subscription metrics, listing valuations, and trend predictions with automated data pipelines. | `FastAPI` `Python` `Pandas` `Analytics` |
+| 📊 **[Power BI Enterprise Dashboards](https://github.com/KDI4U/PowerBI)** | Executive-level business intelligence reporting system featuring complex DAX calculations, interactive KPI scorecards, and multi-source data models. | `Power BI` `DAX` `Data Modeling` `SQL` |
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 What I Bring to the Table
+
+- **End-to-End Delivery:** From initial database schema architecture and backend REST API construction to frontend user interface implementation.
+- **Robust Automation:** Replacing hundreds of human work hours by automating repetitive government portal workflows, data scraping, and document generation.
+- **Data-Driven Insights:** Bridging software engineering and data analytics to transform raw datasets into clear dashboards that drive decision-making.
+- **Production Resilience:** Writing maintainable, well-structured code with unit tests, environment isolation, and containerized Docker environments.
+
+---
+
+## 📊 Live GitHub Analytics
 
 <div align="center">
 
@@ -89,8 +117,12 @@
 
 ### 🤝 Let's Connect & Collaborate!
 
-Feel free to check out my repositories, open an issue, or reach out for collaborations!
+I'm always open to discussing new engineering challenges, backend architecture, web automation opportunities, or data analytics projects.
 
-⭐ *Always open to exciting opportunities in Full-Stack Development and Python Automation!*
+💼 **Company:** Urmila International Services  
+🌐 **GitHub:** [@KDI4U](https://github.com/KDI4U)  
+📍 **Location:** India  
+
+⭐ *Thank you for visiting my GitHub profile!*
 
 </div>
